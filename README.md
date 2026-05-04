@@ -23,4 +23,4 @@ This repository is for students to demonstrate their Git and GitHub skills.<br><
 \<*insert your project description here when instructed*><br><br><br><br><br>
              
 ## Practice working in detached HEAD mode:
-Secret phrase: \<*i*nsert secret-phrasse here when instructed*>
+Secret phrase: \<*I traveled back in time to find this*>
