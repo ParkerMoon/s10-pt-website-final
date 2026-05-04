@@ -20,7 +20,7 @@ To view markdown, use https://markdown-it.github.io <br><br>
 This repository is for students to demonstrate their Git and GitHub skills.<br><br><br><br><br>  
 
 ## Project Descripton: 
-\<*insert your project description here when instructed*><br><br><br><br><br>
+\<*This website is to help inform you about are amazing resort including, yurts and activities*><br><br><br><br><br>
              
 ## Practice working in detached HEAD mode:
 Secret phrase: \<*I traveled back in time to find this*>
